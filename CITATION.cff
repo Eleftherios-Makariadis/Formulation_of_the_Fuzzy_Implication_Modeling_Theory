@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Makariadis"
+  given-names: "Eleftherios"
+  orcid: "https://orcid.org/0009-0009-4325-2981"
+title: "Formulation of the Fuzzy Implication Modeling Theory"
+date-released: 2024-08-24
+url: "https://github.com/Eleftherios-Makariadis/Formulation_of_the_Fuzzy_Implication_Modeling_Theory"
